@@ -1,7 +1,7 @@
 package main
 
 import (
-	"../../dbs"
+	"github.com/Scorpion2115/long-way-to-go/go-programing-cookbook/chp6-all-about-databases-and-storage/dbs"
 	"dbinterface"
 	//go get -u github.com/go-sql-driver/mysql
 	_ "github.com/go-sql-driver/mysql" //we import supported libraries for database/sql
